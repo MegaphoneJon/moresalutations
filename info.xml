@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <extension key="moresalutations" type="module">
   <file>moresalutations</file>
-  <name>moresalutations</name>
-  <description>FIXME</description>
+  <name>More Salutation Tokens</name>
+  <description>An internal extension for adding additional salutation tokens.</description>
   <license>AGPL-3.0</license>
   <maintainer>
     <author>Jon Goldberg</author>
@@ -18,7 +18,7 @@
   <version>1.0</version>
   <develStage>alpha</develStage>
   <compatibility>
-    <ver>5.62</ver>
+    <ver>5.59</ver>
   </compatibility>
   <comments>This is a new, undeveloped module</comments>
   <classloader>
